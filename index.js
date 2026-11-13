@@ -1,6 +1,6 @@
 const { WebSocketServer } = require("ws");
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 25440;
 const wss = new WebSocketServer({ port: PORT });
 
 let nextId = 1;
