@@ -9,7 +9,8 @@
   "author": "Pixel Studios",
   "license": "MIT",
   "dependencies": {
-    "ws": "^8.18.0"
+    "ws": "^8.18.0",
+    "chess.js": "^1.0.0"
   },
   "engines": {
     "node": ">=16"
