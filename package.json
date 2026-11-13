@@ -1,0 +1,17 @@
+{
+  "name": "mp-serv",
+  "version": "1.0.0",
+  "description": "Multiplayer Server code for all Pixel Studios games that have multiplayer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pixel Studios",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
